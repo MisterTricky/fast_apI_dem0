@@ -1,0 +1,6 @@
+# Framework
+fastapi == 0.065.1
+# Server
+uvicorn == 0.14.0
+# MongoDB
+motor == 2.4.0
